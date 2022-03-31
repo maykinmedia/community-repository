@@ -1,20 +1,22 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Verzoek tot verbetering / Feature request (old)
+about: Stel een idee voor om het project beter te maken / Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: enhancement, triage
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Thema / Theme
+[E.g. Frontend, API, Admin, Form designer, Plugins]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### Omschrijving / Description
+Omschrijf duidelijk het idee of de behoefte, eventueel aangevuld met een bepaalde oplossingsrichting / Clearly describe the idea or need, possibly supplemented with a specific solution direction
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Added value / Toegevoegde waarde
+Omschrijf de toegevoegde waarde voor de bedrijfsvoering of dienstverlening / Describe the added value for business operations or services
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Aanvullende opmerkingen / Additional context
+Voeg aanvullingen of mockups toe voor deze verbetering / Add any other context or screenshots about the feature request
+
+

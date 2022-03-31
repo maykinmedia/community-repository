@@ -1,38 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Probleem melden / Bug report (old)
+about: Meldt een probleem om ons te helpen verbeteren  / Create a report to help us improve
 title: ''
-labels: bug
+labels: bug, triage
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Product versie / Product version
+Welke versie gebruikt u? / Which version do you use?
 
-**To Reproduce**
-Steps to reproduce the behavior:
+### Omschrijf het probleem / Describe the bug
+Een duidelijke omschrijving van het probleem (de "bug") / A clear and concise description of what the bug is.
+
+### Stappen om te reproduceren / Steps to reproduce
+Stappen die leiden tot het probleem / Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Verwacht gedrag / Expected behavior
+Een duidelijke omschrijving van wat de verwachting is / A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+### Systeem / System
+ 
+- Screen resolution: [e.g. 1024 x 768]
+- Device: [e.g. Desktop, Mobile, Tablet]
+- OS: [e.g. Windows, Linux, MacOS]
+- Browser: [e.g. Edge, Chrome, Safari, Firefox]
